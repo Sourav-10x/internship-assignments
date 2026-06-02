@@ -10,3 +10,8 @@ Git helps developers track changes, collaborate with teams, manage versions, and
 
 Git is a version control tool used locally.
 GitHub is a cloud platform used to store and share Git repositories online.
+
+Three git commands learned:
+git add -Stages file for commit
+git commit -Saves changes to repository
+git status -Shows repository status
