@@ -1,114 +1,139 @@
-Overview
 
-This repository contains the solutions for the Git and Linux CLI Hands-on Assignment. The assignment was completed using Linux terminal commands and Git version control practices. The main objective was to gain hands-on experience with Linux file management, Git workflows, branching, merging, and GitHub Pull Requests.
+## 📖 Overview
 
-Project Structure
+This repository contains the solutions for the **SOA Internship Git + Linux CLI Hands-on Assignment**.
 
+The assignment was completed entirely using terminal commands and covers:
+
+- Linux File Management
+- Git Fundamentals
+- Branching & Merging
+- GitHub Workflow
+- Pull Requests
+
+---
+
+## 📂 Project Structure
+
+```text
 internship-assignment
-
+│
 ├── docs
-│ ├── git.txt
-│ └── linux.txt
-
+│   ├── git.txt
+│   └── linux.txt
+│
 ├── scripts
-│ └── start.sh
-
+│   └── start.sh
+│
 ├── logs
-│ └── app.log
-
+│   └── app.log
+│
 ├── images
-
+│
 └── notes
-├── commands.txt
-└── learning.md
+    ├── commands.txt
+    └── learning.md
+```
 
-Tasks Completed
-Linux CLI Tasks
-Created project directories using mkdir
-Navigated directories using cd and pwd
-Listed files and folders using ls
-Created files using touch
-Added content to files using nano
-Searched content using grep
-Located files using find
-Git Tasks
-Initialized a Git repository
-Checked repository status using git status
-Added files using git add
-Created commits using git commit
-Modified tracked files
-Created and switched branches
-Merged branches into main
-GitHub Tasks
-Created a GitHub repository
-Connected local repository with remote repository
-Pushed main and feature branches
-Created a Pull Request
-Practiced branch protection rules
-Git Commits
+---
 
-Completed Linux File Management Tasks
+## ✅ Tasks Completed
 
-Updated Git Notes
+### Linux CLI
 
-Added learning summary
+- Created directories using `mkdir`
+- Navigated directories using `cd` and `pwd`
+- Listed files and folders using `ls`
+- Created files using `touch`
+- Edited files using `nano`
+- Searched content using `grep`
+- Located files using `find`
 
-Add README for PR submission
+### Git Fundamentals
 
-Top 5 Learnings
-Linux directory navigation using cd and pwd.
-Creating files and folders using touch and mkdir.
-Searching files using grep and find.
-Tracking changes using Git commits.
-Working with branches, merges, and Pull Requests.
-Commands Practiced
+- Initialized a Git repository
+- Added files to staging area
+- Created commits
+- Tracked file modifications
+- Viewed repository status
+- Managed branches
 
+### GitHub Workflow
+
+- Created a GitHub repository
+- Connected local and remote repositories
+- Pushed branches to GitHub
+- Created a Pull Request
+- Practiced branch protection rules
+
+---
+
+## 💻 Commands Practiced
+
+```bash
 mkdir
-
 cd
-
 pwd
-
 ls
-
 touch
-
 grep
-
 find
 
 git init
-
 git status
-
 git add .
-
 git commit
-
 git branch
-
 git checkout
-
 git merge
-
-git remote add origin
-
 git push
-
 git pull
+```
 
-Pull Request Details
+---
 
-Source Branch: feature/pr-submission
+## 📝 Git Commits
 
-Destination Branch: main
+1. Completed Linux File Management Tasks
+2. Updated Git Notes
+3. Added Learning Summary
+4. Add README for PR Submission
 
-Pull Request Title: Submission – Sourav
+---
 
-Author
+## 🎯 Top 5 Learnings
 
-Sourav Mahanty
+1. Linux directory navigation using `cd` and `pwd`
+2. Creating files and folders using `touch` and `mkdir`
+3. Searching files using `grep` and `find`
+4. Version control using Git
+5. Working with branches, merges, and Pull Requests
 
-GitHub: https://github.com/Sourav-10x
+---
 
-Repository: https://github.com/Sourav-10x/internship-assignments
+## 🔀 Pull Request Information
+
+**Source Branch:** `feature/pr-submission`
+
+**Destination Branch:** `main`
+
+**PR Title:** `Submission – Sourav`
+
+---
+
+## 👨‍💻 Author
+
+**Sourav Mahanty**
+
+GitHub Profile:  
+https://github.com/Sourav-10x
+
+Repository:  
+https://github.com/Sourav-10x/internship-assignments
+
+---
+
+## 🚀 Conclusion
+
+This assignment provided hands-on experience with Linux command-line operations, Git version control, GitHub collaboration workflows, branching strategies, merging, and Pull Request management.
+
